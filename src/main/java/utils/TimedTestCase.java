@@ -26,7 +26,5 @@ public class TimedTestCase extends TestCase {
     }
 
     @After
-    public void tearDown() {
-        log.info(getName() +" " + (System.currentTimeMillis() - start) +"ms");
-    }
+    public void tearDown() {}
 }
