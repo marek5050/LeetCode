@@ -16,12 +16,12 @@ import java.util.ArrayList;
 //        Special thanks to @mithmatt for adding this problem and creating all test cases.
 
 public class RemoveLinkedListElements {
-    public static Object[][] testcases = new Object[][] {
+    public static Object[][] testcases = {
             { "[1,2]" , 2 , "[1]"  },
             { "[1,2,2,1]", 2, "[1,1]"},
-            { "[]"    , 0 ,"null"},
-            { "[1]"   , 1 ,  "null"  },
-            { "[1,1]"   , 1 ,  "null"  },
+            { "[]"    , 0 ,"[]"},
+            { "[1]"   , 1 ,  "[]"  },
+            { "[1,1]"   , 1 ,  "[]"  },
             { "[1,2]" , 1, "[2]"  },
             { "[1,2,3,4,5]", 2, "[1,3,4,5]"},
             { "[1,2,3,4,5]", 5, "[1,2,3,4]"}

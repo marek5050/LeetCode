@@ -33,7 +33,7 @@ public class LinkedList {
     };
 
     public static String stringify(ListNode n){
-        return (n==null)? "null": "["+n.toString()+"]";
+        return (n==null)? "[]": "["+n.toString()+"]";
     }
 }
 
