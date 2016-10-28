@@ -35,7 +35,7 @@ public class Tests extends TimedTestCase {
     }
 
     @Test
-    public void test_recurse(){
+    public void reverse_linked_list_206(){
         ListNode testHead = GenerateLinkedList(testCase);
         ListNode testResult = problem.reverseListRecurse(testHead);
         assertEquals(expectedResult, stringify(testResult));

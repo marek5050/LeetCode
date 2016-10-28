@@ -35,7 +35,7 @@ public class Tests extends TimedTestCase {
     }
 
     @Test
-    public void testAll(){
+    public void remove_linked_list_elements_203(){
         ListNode testHead = GenerateLinkedList(testCase);
         ListNode testResult = problem.removeElements(testHead,remove);
         assertEquals(expectedResult, stringify(testResult));

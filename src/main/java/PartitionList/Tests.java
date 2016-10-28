@@ -36,7 +36,7 @@ public class Tests extends TimedTestCase {
     }
 
     @Test
-    public void test_recurse(){
+    public void partition_linked_list_86(){
         ListNode testHead = LinkedList.GenerateLinkedList(testCase);
         ListNode testResult = problem.partition(testHead, k);
         assertEquals(expectedResult, LinkedList.stringify(testResult));

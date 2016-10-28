@@ -31,7 +31,7 @@ public class Tests extends TimedTestCase {
     }
 
     @Test
-    public void test_recurse(){
+    public void palindrome_linked_list_234(){
         ListNode testHead = GenerateLinkedList(testCase);
         boolean testResult = problem.isPalindrome(testHead);
         assertEquals(expectedResult, testResult);
