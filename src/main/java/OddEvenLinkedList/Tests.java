@@ -32,7 +32,7 @@ public class Tests extends TimedTestCase {
     }
 
     @Test
-    public void odd_even_linked_list(){
+    public void odd_even_linked_list_328(){
         ListNode testHead = GenerateLinkedList(testCase);
         ListNode testResult = problem.oddEvenList(testHead);
         assertEquals(expectedResult, stringify(testResult));
