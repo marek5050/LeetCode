@@ -1,10 +1,11 @@
 package  RemoveLinkedListElements;
 
-import  LinkedList.ListNode;
+import LinkedList.ListNode;
 
 /**
  * Created by marek5050 on 10/25/16.
  */
+// 203 remove_linked_list_elements
 
 //Remove all elements from a linked list of integers that have value val.
 //

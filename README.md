@@ -1,6 +1,8 @@
-# Solutions to online challenge problems. [![Build Status](https://travis-ci.org/marek5050/LeetCode_Solutions.svg?branch=master)](https://travis-ci.org/marek5050/LeetCode_Solutions) 
-328 odd_even_linked_list  
-234 palindrome_linked_list  
-206 reverse_linked_list  
-203 remove_linked_list_elements  
- 86 partition_linked_list  
+# Solutions to online challenge problems. [![Build Status](https://travis-ci.org/marek5050/LeetCode_Solutions.svg?branch=master)](https://travis-ci.org/marek5050/LeetCode_Solutions)
+ 
+328. Odd Even LinkedList  
+234. Palindrome Linked List  
+203. Remove linked list elements      
+206. Reverse Linked List  
+86. Partition List  
+83. Remove Duplicates from Sorted List  
