@@ -4,12 +4,8 @@
     <bookmark url="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Object.java" line="237" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76d4423e-36b3-4898-81ae-7541c62eaa48" name="Default" comment="Added Graddle logging and test run status. &#10;gradle test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/OddEvenLinkedList/Solution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/OddEvenLinkedList/Tests.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/main.iml" afterPath="$PROJECT_DIR$/.idea/modules/main.iml" />
+    <list default="true" id="76d4423e-36b3-4898-81ae-7541c62eaa48" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1406,7 +1402,7 @@
       <workItem from="1477523209017" duration="12842000" />
       <workItem from="1477589299599" duration="3531000" />
       <workItem from="1477602116476" duration="1384000" />
-      <workItem from="1477661667121" duration="3718000" />
+      <workItem from="1477661667121" duration="3746000" />
     </task>
     <task id="LOCAL-00001" summary="Adding new solution">
       <created>1477432482051</created>
@@ -1443,7 +1439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477602683888</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Solved 328 Odd Even LinkedList&#10;">
+      <created>1477672278707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1477672278707</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1479,7 +1482,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43308000" />
+    <option name="totallyTimeSpent" value="43336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="788" extended-state="0" />
@@ -1531,7 +1534,8 @@
     <MESSAGE value="234. Palindrome Linked List&#10;206. Reverse Linked List" />
     <MESSAGE value="Added Gradle for building the package and running the tests.&#10; - gradle test" />
     <MESSAGE value="Added Graddle logging and test run status. &#10;gradle test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Graddle logging and test run status. &#10;gradle test" />
+    <MESSAGE value="Solved 328 Odd Even LinkedList&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved 328 Odd Even LinkedList&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
