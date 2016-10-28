@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d4423e-36b3-4898-81ae-7541c62eaa48" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,8 +64,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="182" selection-start-line="0" selection-start-column="182" selection-end-line="0" selection-end-column="182" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -470,8 +470,8 @@
         <option value="$PROJECT_DIR$/src/main/java/PartitionList/Tests.java" />
         <option value="$PROJECT_DIR$/src/main/java/PalindromeLinkedList/Tests.java" />
         <option value="$PROJECT_DIR$/src/main/java/OddEvenLinkedList/Tests.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1300,7 +1300,7 @@
       <workItem from="1477523209017" duration="12842000" />
       <workItem from="1477589299599" duration="3531000" />
       <workItem from="1477602116476" duration="1384000" />
-      <workItem from="1477661667121" duration="4207000" />
+      <workItem from="1477661667121" duration="4357000" />
     </task>
     <task id="LOCAL-00001" summary="Adding new solution">
       <created>1477432482051</created>
@@ -1365,7 +1365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477672637840</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Testing with TravisCI">
+      <created>1477672749313</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1477672749313</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1401,7 +1408,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43797000" />
+    <option name="totallyTimeSpent" value="43947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="788" extended-state="0" />
@@ -1456,7 +1463,8 @@
     <MESSAGE value="Solved 328 Odd Even LinkedList&#10;" />
     <MESSAGE value="Renamed tests" />
     <MESSAGE value="Added README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added README" />
+    <MESSAGE value="Testing with TravisCI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing with TravisCI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1740,8 +1748,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="182" selection-start-line="0" selection-start-column="182" selection-end-line="0" selection-end-column="182" />
             <folding />
           </first_editor>
           <second_editor />
