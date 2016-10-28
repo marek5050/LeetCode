@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76d4423e-36b3-4898-81ae-7541c62eaa48" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/OddEvenLinkedList/Tests.java" afterPath="$PROJECT_DIR$/src/main/java/OddEvenLinkedList/Tests.java" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -422,7 +421,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/leetcode/tests/ListNodeTests.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/LinkedList/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/LinkedList/RemoveLinkedListElements.java" />
         <option value="$PROJECT_DIR$/src/com/leetcode/TimedTestCase.java" />
@@ -473,6 +471,7 @@
         <option value="$PROJECT_DIR$/src/main/java/PalindromeLinkedList/Tests.java" />
         <option value="$PROJECT_DIR$/src/main/java/OddEvenLinkedList/Tests.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -1301,7 +1300,7 @@
       <workItem from="1477523209017" duration="12842000" />
       <workItem from="1477589299599" duration="3531000" />
       <workItem from="1477602116476" duration="1384000" />
-      <workItem from="1477661667121" duration="4093000" />
+      <workItem from="1477661667121" duration="4207000" />
     </task>
     <task id="LOCAL-00001" summary="Adding new solution">
       <created>1477432482051</created>
@@ -1359,7 +1358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1477672497449</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added README">
+      <created>1477672637840</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1477672637840</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1395,7 +1401,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43683000" />
+    <option name="totallyTimeSpent" value="43797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="788" extended-state="0" />
@@ -1449,7 +1455,8 @@
     <MESSAGE value="Added Graddle logging and test run status. &#10;gradle test" />
     <MESSAGE value="Solved 328 Odd Even LinkedList&#10;" />
     <MESSAGE value="Renamed tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed tests" />
+    <MESSAGE value="Added README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1470,17 +1477,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="236" column="5" selection-start-line="236" selection-start-column="5" selection-end-line="236" selection-end-column="5" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="false" />
-            <element signature="e#10148#10149#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/junit-4.11-sources.jar!/org/junit/runner/JUnitCore.java" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1729,6 +1725,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="37" column="39" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
