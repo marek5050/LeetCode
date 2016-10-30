@@ -9,3 +9,9 @@
    86. Partition List  
    83. Remove Duplicates from Sorted List
   ```
+  
+  Execute test suite using 
+  ```
+  gradle check
+  ```
+  
